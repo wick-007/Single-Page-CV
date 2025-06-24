@@ -1,5 +1,6 @@
 # Single-Page-CV
 Just a single page CV..  
+Project Url = https://single-page-cv-alpha.vercel.app/
 
    How to run the project.
 Step 1: Run "git clone https://github.com/wick-007/Single-Page-CV.git " in your VS code terminal to get your local repo.
