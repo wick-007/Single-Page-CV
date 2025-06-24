@@ -1,0 +1,25 @@
+h2{ 
+    font-size:medium;
+    color: lightgreen;
+    font-weight: 300;
+}
+
+h3{
+    font-size: small;
+    color: mediumslateblue;
+}
+
+p{
+    font-size: small;
+}
+
+ul{
+    font-size: small;
+    
+}
+
+hr{
+    border: 2px solid black;
+    margin: 10px 0;
+    width: 75%;
+}
